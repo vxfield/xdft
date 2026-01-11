@@ -1,0 +1,33 @@
+[submodule "references/libxc"]
+	path = references/libxc
+	url = https://gitlab.com/libxc/libxc.git
+[submodule "references/libint"]
+	path = references/libint
+	url = https://github.com/evaleev/libint.git
+[submodule "references/libecpint"]
+	path = references/libecpint
+	url = https://github.com/robashaw/libecpint.git
+[submodule "references/simple-dftd3"]
+	path = references/simple-dftd3
+	url = https://github.com/dftd3/simple-dftd3.git
+[submodule "references/pcmsolver"]
+	path = references/pcmsolver
+	url = https://github.com/PCMSolver/pcmsolver.git
+[submodule "references/geomeTRIC"]
+	path = references/geomeTRIC
+	url = https://github.com/leeping/geomeTRIC.git
+[submodule "references/QCElemental"]
+	path = references/QCElemental
+	url = https://github.com/MolSSI/QCElemental.git
+[submodule "references/QCSchema"]
+	path = references/QCSchema
+	url = https://github.com/MolSSI/QCSchema.git
+[submodule "references/QCEngine"]
+	path = references/QCEngine
+	url = https://github.com/MolSSI/QCEngine.git
+[submodule "references/pyscf"]
+	path = references/pyscf
+	url = https://github.com/pyscf/pyscf.git
+[submodule "references/accelerated-dft"]
+	path = references/accelerated-dft
+	url = https://github.com/microsoft/accelerated-dft.git
