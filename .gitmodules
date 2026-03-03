@@ -31,3 +31,6 @@
 [submodule "references/accelerated-dft"]
 	path = references/accelerated-dft
 	url = https://github.com/microsoft/accelerated-dft.git
+[submodule "references/ProgrammingProjects"]
+	path = references/ProgrammingProjects
+	url = https://github.com/CrawfordGroup/ProgrammingProjects.git
